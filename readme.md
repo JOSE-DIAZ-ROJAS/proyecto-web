@@ -56,14 +56,21 @@ Hay cinco tipos de categorías:
 - Module
 - State
 - Theme
-## Ejemplo:
-![App Screenshot](<Captura desde 2024-04-29 11-40-41.png>)
 
-## PROYECTO CREACION DE PAGINAS WEB USANDO SASS | BEM | SMACSS
-Creacion archivos: 
-- index.html 
-- inicio.html 
-- nosotros.html 
-- servicios.html 
-- contacto.html
-- readme.md
+
+# PROYECTO CREACION DE PAGINAS WEB USANDO SASS | BEM | SMACSS
+
+## Descripcion del proyecto
+El proyecto se corresponde con una tienda virtual basica con sus elementos (sub paginas), donde se aplica SASS, BEM Y SMACSS
+
+ ## Creacion de archivos html
+
+![App Screnshot](<Captura desde 2024-04-29 13-42-48.png>)
+
+ ## Creacion de categorias SMACSS
+
+![App Screenshot](<Captura desde 2024-04-29 13-54-49.png>)
+
+ ## Resultados
+
+ ![alt text](<Captura desde 2024-04-29 14-00-39.png>)
