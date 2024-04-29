@@ -1,0 +1,36 @@
+.nav {
+  
+  &__item {
+      /* border: solid 1px green;*/
+      background-color: $back-color;
+       border-radius: 10px;
+       width: 140px;
+       height: 40px;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+   
+  }
+  &__link {
+        
+        text-decoration: none; 
+
+        &--active {
+            color: $color-link-active;
+            border-bottom: $border-link-active;
+            
+        }
+  }
+  &__list {
+      margin-top: 30px;
+        /*border: 1px solid green;*/
+        height: 80px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+  }
+}
+
+
+
