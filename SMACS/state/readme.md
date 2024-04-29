@@ -72,7 +72,7 @@ Creacion archivos .html
 
 ![alt text](<Captura desde 2024-04-29 12-44-27.png>)
 
-creacion de categorias SMACSS
+creacion de categorias SMACSS.
 
 ![alt text](image-1.png)
 
